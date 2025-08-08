@@ -15,6 +15,7 @@
     <style>
         body {
             font-family: 'Quicksand', sans-serif;
+            transition: background 0.5s ease;
         }
 
         h1,
@@ -37,76 +38,112 @@
                 transform: translateY(0);
             }
         }
+
+        button:focus {
+            outline: 2px dashed #000;
+            outline-offset: 2px;
+        }
     </style>
 </head>
 
 <body
     class="bg-gradient-to-br from-yellow-50 to-orange-100 min-h-screen flex flex-col items-center justify-start p-4 sm:p-6">
+
     <!-- Loader -->
     <div id="loader" class="flex flex-col items-center justify-center min-h-screen bg-orange-100 fixed inset-0 z-50">
         <div class="animate-spin w-16 h-16 border-t-4 border-b-4 border-orange-600 rounded-full mb-4"></div>
         <p class="text-orange-700 font-semibold text-lg">Cooking up your meal suggestions...</p>
     </div>
 
-    <h1 class="text-3xl sm:text-4xl text-gray-800 mb-2 sm:mb-4 animate-fade-in text-center">
+    <!-- Heading -->
+    <h1 class="text-3xl sm:text-4xl text-gray-800 mb-2 sm:mb-4 animate-fade-in text-center tracking-wide">
         🍽️ What Should I Cook Today?
     </h1>
 
-    <p id="location-weather" class="text-gray-600 mb-6 animate-fade-in text-center text-sm sm:text-base">
+    <!-- Location & Weather -->
+    <p id="location-weather" class="text-gray-600 mb-6 animate-fade-in text-center text-sm sm:text-base tracking-tight">
         Detecting your location and weather...
     </p>
 
+    <!-- Meal Cards -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 w-full max-w-6xl">
+
         <!-- Veg Card -->
         <div
-            class="bg-white/80 backdrop-blur-md border border-white/30 shadow-2xl rounded-2xl p-4 sm:p-6 animate-fade-in flex flex-col items-center text-center">
+            class="bg-white/80 backdrop-blur-md border border-white/30 shadow-2xl rounded-2xl p-4 sm:p-6 animate-fade-in delay-[100ms] flex flex-col items-center text-center transform transition-all hover:scale-105 hover:shadow-xl">
             <img src="./images/veg.webp" alt="Veg Dish"
-                class="w-20 h-20 sm:w-24 sm:h-24 object-cover rounded-full shadow-md mb-3 border-4 border-green-100" />
-            <h2 class="text-lg sm:text-xl font-semibold text-green-700 mb-1">🥗 Veg Meal</h2>
+                class="w-24 h-24 object-cover rounded-full shadow-md mb-3 border-4 border-green-100" />
+            <h2 class="text-xl font-semibold text-green-700 mb-1">🥗 Veg Meal</h2>
+                <!-- Skeleton Loader -->
+                <div id="skeleton-veg" class="hidden w-full animate-pulse mt-3 mb-3 space-y-3">
+                    <div class="h-4 bg-gray-300 rounded w-3/4 mx-auto"></div>
+                    <div class="h-4 bg-gray-200 rounded w-1/2 mx-auto"></div>
+                </div>
             <p id="veg-meal" class="text-gray-800 text-base mb-1"></p>
-            <p id="veg-tag" class="text-sm italic text-gray-500 mb-3"></p>
+            <p id="veg-tag" class="text-sm italic text-gray-500 mb-3">🌿 Fresh & Light</p>
             <button onclick="getRandomMeal('veg')"
-                class="bg-green-500 hover:bg-green-600 text-white px-3 py-2 rounded-md text-sm sm:text-base transition-all">
+                class="veg-button bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-full text-sm sm:text-base transition-transform active:scale-95 focus:outline-none">
                 Show Another
             </button>
+       
+
         </div>
 
         <!-- Non-Veg Card -->
         <div
-            class="bg-white/80 backdrop-blur-md border border-white/30 shadow-2xl rounded-2xl p-4 sm:p-6 animate-fade-in flex flex-col items-center text-center">
+            class="bg-white/80 backdrop-blur-md border border-white/30 shadow-2xl rounded-2xl p-4 sm:p-6 animate-fade-in delay-[200ms] flex flex-col items-center text-center transform transition-all hover:scale-105 hover:shadow-xl">
             <img src="./images/non-veg.webp" alt="Non-Veg Dish"
-                class="w-20 h-20 sm:w-24 sm:h-24 object-cover rounded-full shadow-md mb-3 border-4 border-rose-100" />
-            <h2 class="text-lg sm:text-xl font-semibold text-rose-700 mb-1">🍗 Non-Veg Meal</h2>
+                class="w-24 h-24 object-cover rounded-full shadow-md mb-3 border-4 border-rose-100" />
+            <h2 class="text-xl font-semibold text-rose-700 mb-1">🍗 Non-Veg Meal</h2>
+                <!-- Skeleton Loader -->
+                <div id="skeleton-nonveg" class="hidden w-full animate-pulse mt-3 mb-3 space-y-3">
+                    <div class="h-4 bg-gray-300 rounded w-3/4 mx-auto"></div>
+                    <div class="h-4 bg-gray-200 rounded w-1/2 mx-auto"></div>
+                </div>
             <p id="nonveg-meal" class="text-gray-800 text-base mb-1"></p>
-            <p id="nonveg-tag" class="text-sm italic text-gray-500 mb-3"></p>
+            <p id="nonveg-tag" class="text-sm italic text-gray-500 mb-3">🔥 Hearty & Protein-rich</p>
             <button onclick="getRandomMeal('nonveg')"
-                class="bg-rose-500 hover:bg-rose-600 text-white px-3 py-2 rounded-md text-sm sm:text-base transition-all">
+                class="nonveg-button bg-rose-500 hover:bg-rose-600 text-white px-4 py-2 rounded-full text-sm sm:text-base transition-transform active:scale-95 focus:outline-none">
                 Show Another
             </button>
+       
+
         </div>
 
         <!-- Dessert Card -->
         <div
-            class="bg-white/80 backdrop-blur-md border border-white/30 shadow-2xl rounded-2xl p-4 sm:p-6 animate-fade-in flex flex-col items-center text-center">
+            class="bg-white/80 backdrop-blur-md border border-white/30 shadow-2xl rounded-2xl p-4 sm:p-6 animate-fade-in delay-[300ms] flex flex-col items-center text-center transform transition-all hover:scale-105 hover:shadow-xl">
             <img src="./images/dessert.webp" alt="Dessert"
-                class="w-20 h-20 sm:w-24 sm:h-24 object-cover rounded-full shadow-md mb-3 border-4 border-yellow-100" />
-            <h2 class="text-lg sm:text-xl font-semibold text-yellow-700 mb-1">🍮 Dessert</h2>
+                class="w-24 h-24 object-cover rounded-full shadow-md mb-3 border-4 border-yellow-100" />
+            <h2 class="text-xl font-semibold text-yellow-700 mb-1">🍮 Dessert</h2>
+            <!-- Skeleton Loader -->
+            <div id="skeleton-dessert" class="hidden w-full animate-pulse mt-3 mb-3 space-y-3">
+                <div class="h-4 bg-gray-300 rounded w-3/4 mx-auto"></div>
+                <div class="h-4 bg-gray-200 rounded w-1/2 mx-auto"></div>
+            </div>
             <p class="text-sm sm:text-base"><span class="font-medium">Homemade:</span> <span id="dessert-homemade"
                     class="text-gray-800"></span></p>
             <p class="mb-3 text-sm sm:text-base"><span class="font-medium">Fancy:</span> <span id="dessert-fancy"
                     class="text-gray-800"></span></p>
             <button onclick="getRandomDessert()"
-                class="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-2 rounded-md text-sm sm:text-base transition-all">
+                class="dessert-button bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 rounded-full text-sm sm:text-base transition-transform active:scale-95 focus:outline-none">
                 Show Another
             </button>
+          
+
         </div>
     </div>
 
-    <!-- Lucky Button -->
+    <!-- Feeling Lucky Button -->
     <button onclick="getAllMeals()"
-        class="mt-8 sm:mt-10 bg-purple-500 hover:bg-purple-600 text-white text-base sm:text-lg px-6 py-3 rounded-full shadow-lg transition">
+        class="mt-8 sm:mt-10 bg-purple-500 hover:bg-purple-600 text-white text-base sm:text-lg px-6 py-3 rounded-full shadow-lg transition-transform active:scale-95 focus:outline-none">
         🎲 Feeling Lucky — Suggest All Again
     </button>
+
+    <!-- Footer -->
+    <footer class="mt-12 text-gray-500 text-sm text-center opacity-80">
+        Abdul Raheem © 2025 What to Cook Today?
+    </footer>
 
     <script src="script.js"></script>
 </body>
