@@ -12,6 +12,7 @@ let desserts = [];
 // ========== 🌍 FETCH LOCATION + WEATHER ==========
 async function getLocationAndWeather() {
     try {
+
         const locRes = await fetch("https://ipinfo.io/json?token=f4d72ceb087f19");
         const locData = await locRes.json();
         cityName = locData.city;
@@ -34,11 +35,23 @@ async function getLocationAndWeather() {
 
         document.getElementById("location-weather").textContent =
             `📍 ${cityName} | ${Math.round(temp)}°C | ${weatherTag.toUpperCase()}`;
+        document.getElementById("loader").style.display = "none";
+
     } catch (err) {
         console.error("Failed to fetch weather:", err);
         document.getElementById("location-weather").textContent = "⚠️ Failed to get weather info.";
+        document.getElementById("loader").style.display = "none";
+
     }
 }
+function showLoader() {
+    document.getElementById("loader").style.display = "flex";
+}
+
+function hideLoader() {
+    document.getElementById("loader").style.display = "none";
+}
+
 
 // ========== 📦 LOAD LOCAL JSON FILES ==========
 async function loadData() {
@@ -68,20 +81,24 @@ function getRandomItem(arr) {
 
 // ========== 💡 GET RANDOM MEALS ==========
 function getRandomMeal(type) {
+    showLoader();
     const mealData = type === "veg" ? vegMeals : nonvegMeals;
     const list = filterMeals(mealData);
     const meal = getRandomItem(list);
 
     const elId = type === "veg" ? "veg-meal" : "nonveg-meal";
     document.getElementById(elId).textContent = meal.meal;
+    setTimeout(hideLoader, 600);
 }
 
 function getRandomDessert() {
+    showLoader();
     const filtered = desserts.filter(d => d.weather.includes(weatherTag));
     const dessert = getRandomItem(filtered);
 
     document.getElementById("dessert-homemade").textContent = getRandomItem(dessert.homemade);
     document.getElementById("dessert-fancy").textContent = getRandomItem(dessert.fancy);
+    setTimeout(hideLoader, 600);
 }
 
 // ========== 🚀 INIT ==========
@@ -92,5 +109,14 @@ async function init() {
     getRandomMeal("nonveg");
     getRandomDessert();
 }
+
+function getAllMeals() {
+    showLoader();
+    getRandomMeal("veg");
+    getRandomMeal("nonveg");
+    getRandomDessert();
+    setTimeout(hideLoader, 600);
+}
+
 
 init();
