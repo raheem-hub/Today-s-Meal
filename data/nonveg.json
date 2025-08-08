@@ -1,0 +1,2385 @@
+[
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Keema Matar + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Biryani + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Anda Aloo Curry + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Karahi + Roti + Salad",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Beef Nihari + Naan",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Shami Kebab + Pulao + Raita",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Gosht + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chicken Qorma + Naan",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chicken Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Koftay + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mutton Korma + Naan",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chicken Handi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Haleem + Naan",
+    "weather": [
+      "hot"
+    ]
+  }
+]

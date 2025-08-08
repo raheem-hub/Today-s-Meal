@@ -1,0 +1,2383 @@
+[
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "rainy",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "cold",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Bhindi + Roti + Dahi",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "mild",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "rainy",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Kaddu + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "hot"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Chana Daal + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Palak Paneer + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Masoor Daal + Chawal",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Gobhi Aloo + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Baingan Bharta + Raita + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Tinday + Roti",
+    "weather": [
+      "cold",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Mixed Sabzi + Roti",
+    "weather": [
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Vegetable Pulao + Raita",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Aloo Matar + Roti",
+    "weather": [
+      "cold"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot",
+      "mild"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "mild",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Lauki + Roti",
+    "weather": [
+      "rainy",
+      "cold"
+    ]
+  },
+  {
+    "meal": "Rajma + Chawal",
+    "weather": [
+      "cold",
+      "hot"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot",
+      "rainy"
+    ]
+  },
+  {
+    "meal": "Karela + Roti",
+    "weather": [
+      "hot"
+    ]
+  }
+]

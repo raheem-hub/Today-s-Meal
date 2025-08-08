@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>What to Cook Today?</title>
+    <link rel="icon" type="image/png" href="./images/meal.png" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body
+    class="bg-gradient-to-br from-yellow-50 to-orange-100 min-h-screen font-sans flex flex-col items-center justify-start p-6">
+
+    <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 animate-fade-in">
+        🍽️ What Should I Cook Today?
+    </h1>
+
+    <p id="location-weather" class="text-gray-600 mb-8 animate-fade-in">
+        Detecting your location and weather...
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl">
+        <!-- Veg Card -->
+        <div class="bg-white shadow-xl rounded-2xl p-6 animate-fade-in flex flex-col items-center text-center">
+            <h2 class="text-xl font-semibold text-green-700 mb-2">🥗 Veg Meal</h2>
+            <p id="veg-meal" class="text-gray-800 text-lg mb-4"></p>
+            <button onclick="getRandomMeal('veg')"
+                class="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg transition-all">
+                Show Another
+            </button>
+        </div>
+
+        <!-- Non-Veg Card -->
+        <div class="bg-white shadow-xl rounded-2xl p-6 animate-fade-in flex flex-col items-center text-center">
+            <h2 class="text-xl font-semibold text-red-700 mb-2">🍗 Non-Veg Meal</h2>
+            <p id="nonveg-meal" class="text-gray-800 text-lg mb-4"></p>
+            <button onclick="getRandomMeal('nonveg')"
+                class="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-lg transition-all">
+                Show Another
+            </button>
+        </div>
+
+        <!-- Dessert Card -->
+        <div class="bg-white shadow-xl rounded-2xl p-6 animate-fade-in flex flex-col items-center text-center">
+            <h2 class="text-xl font-semibold text-yellow-700 mb-2">🍮 Dessert</h2>
+            <p><span class="font-medium">Homemade:</span> <span id="dessert-homemade" class="text-gray-800"></span></p>
+            <p class="mb-4"><span class="font-medium">Fancy:</span> <span id="dessert-fancy"
+                    class="text-gray-800"></span></p>
+            <button onclick="getRandomDessert()"
+                class="bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 rounded-lg transition-all">
+                Show Another
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+    <style>
+        .animate-fade-in {
+            animation: fadeIn 0.8s ease-out forwards;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</body>
+
+</html>

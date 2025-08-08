@@ -1,0 +1,4747 @@
+[
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "hot"
+    ],
+    "homemade": [
+      "Mango Shake",
+      "Mango Kheer"
+    ],
+    "fancy": [
+      "Kulfi",
+      "Falooda"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "mild"
+    ],
+    "homemade": [
+      "Ras Malai",
+      "Fruit Trifle"
+    ],
+    "fancy": [
+      "Rasgulla",
+      "Seviyan"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "cold"
+    ],
+    "homemade": [
+      "Gajar ka Halwa",
+      "Suji ka Halwa"
+    ],
+    "fancy": [
+      "Anday ka Halwa",
+      "Dry Fruit Kheer"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  },
+  {
+    "weather": [
+      "rainy"
+    ],
+    "homemade": [
+      "Zarda",
+      "Sheer Khurma"
+    ],
+    "fancy": [
+      "Jalebi",
+      "Malpura"
+    ]
+  }
+]
